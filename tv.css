@@ -1,0 +1,31 @@
+body {
+    background-image: cover;
+    background-position: center;
+}
+.heading {
+    width: 100%;
+    font-size: 25px;
+    margin-top: 0px;
+    padding: 10px;
+    padding-left: 720px;
+    letter-spacing: 2px;
+    font-family: 'Raleway', sans-serif;
+}
+.back {
+    margin-left: 620px;
+}
+#status {
+    font-size: 17px;
+}
+.label {
+    margin-top: 15px;
+    font-size: 16px;
+    padding: 7px;
+    font-family: 'Josefin Sans', sans-serif;
+    letter-spacing: 1px;
+}
+canvas {
+    border-radius: 20px;
+    box-shadow: 5px 5px 25px gray;
+    border: 3px solid black;
+}

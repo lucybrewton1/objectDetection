@@ -1,0 +1,18 @@
+body {
+    background-image: cover;
+    background-position: center;
+}
+.heading {
+    width: 100%;
+    font-size: 25px;
+    margin-top: 0px;
+    padding: 10px;
+    letter-spacing: 2px;
+}
+.links {
+    margin-top: 40px;
+    font-size: 17px;
+    width: 400px;
+    border-radius: 20px;
+    letter-spacing: 2px;
+}
